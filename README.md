@@ -71,13 +71,3 @@ Content-Type: text/html
 
 - Add multithreading for better concurrency.
 - Improve error handling and logging.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for more information.
-
----
-
-Feel free to fork and contribute!
-
-
